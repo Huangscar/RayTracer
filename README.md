@@ -1,6 +1,6 @@
 # RayTracer
 
-根据 [教程](./Ray Tracing in a Weekend.pdf) 所给的代码和内容，写的RayTracer的初级版
+根据 教程(Ray Tracing in a Weekend.pdf) 所给的代码和内容，写的RayTracer的初级版
 
 下面是实验报告截取内容。详细内容见教程
 
