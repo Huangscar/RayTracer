@@ -1,0 +1,17 @@
+﻿  PathTracer.cpp
+e:\夏令营\raytracing\my\raytracer\raytracer\material.h(67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\夏令营\raytracing\my\raytracer\raytracer\pathtracer.cpp(16): warning C4305: “参数”: 从“double”到“float”截断
+e:\夏令营\raytracing\my\raytracer\raytracer\pathtracer.cpp(22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\夏令营\raytracing\my\raytracer\raytracer\pathtracer.cpp(72): warning C4305: “初始化”: 从“double”到“float”截断
+e:\夏令营\raytracing\my\raytracer\raytracer\pathtracer.cpp(113): warning C4018: “>=”: 有符号/无符号不匹配
+  camera.cpp
+e:\夏令营\raytracing\my\raytracer\raytracer\camera.cpp(20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+e:\夏令营\raytracing\my\raytracer\raytracer\material.h(67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  material.cpp
+e:\夏令营\raytracing\my\raytracer\raytracer\material.h(67): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\夏令营\raytracing\my\raytracer\raytracer\material.cpp(16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  random48.cpp
+e:\夏令营\raytracing\my\raytracer\raytracer\random48.cpp(17): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  RayTracer.vcxproj -> E:\夏令营\RayTracing\my\RayTracer\x64\Debug\RayTracer.exe
